@@ -12,7 +12,7 @@ int main()
      int product=1;
      for( int i=1; i<=n; i++){
         product= product *i;
-         printf("the factorial %d is:%d\n",i,product );}
+         printf("the factorial of %d is:%d\n",i,product );}
 
     return 0;
 }
